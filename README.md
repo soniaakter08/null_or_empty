@@ -1,6 +1,9 @@
 # null_or_empty
 
-[![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
+<!-- [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml) -->
+
+MIT
+[![Node CI](https://github.com/soniaakter08/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/soniaakter08/null_or_empty/actions/workflows/whatever.yml)
 
 A simple Node.js package that checks, if a given string is null or empty.
 
@@ -21,6 +24,3 @@ Then, require the package and use it like so:
     console.log(isNullOrEmpty("Hello World")); // false
 
 ## License
-
-MIT
-[![Node CI](https://github.com/soniaakter08/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/soniaakter08/null_or_empty/actions/workflows/whatever.yml)
